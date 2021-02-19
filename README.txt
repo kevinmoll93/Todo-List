@@ -1,4 +1,4 @@
-## Primera actividad para el curso de GIT - MERN
+# Primera actividad para el curso de GIT - MERN
 
 ## Funcion del programa: 
 El programa realiza una carga manual en el campo de tipo text y luego al hacer click en el boton 'Enviar' o apretar la tecla
