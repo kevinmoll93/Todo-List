@@ -1,0 +1,31 @@
+#todoList {
+    margin: auto;
+    width: 50%;
+    height: 500%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#text {
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+#body {
+    font-family: "Arial";
+    background-color: grey;
+}
+
+#todo-list {
+    color: white;
+}
