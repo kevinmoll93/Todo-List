@@ -1,4 +1,8 @@
 const todos = JSON.parse(localStorage.getItem("todos")) || [];
+const countTask= document.getElementById('count-task');
+
+countTask.innerHTML = "Tareas: " + todos.length || 0;
+
 
 const render = () => {
     const todosList = document.getElementById("todo-list");
@@ -19,6 +23,7 @@ const render = () => {
 const actualizaTodos = (todos) => {
     const todosString = JSON.stringify(todos);
     localStorage.setItem("todos", todosString);
+    countTask.innerHTML = "Tareas: " + todos.length;
 };
 
 window.onload = () => {
