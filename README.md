@@ -6,6 +6,10 @@
 
 - Es un simple proyecto que permite agregar items a un listado y eliminarlos haciendo click en el mismo. Tambien el listado queda guardado en el localstorage. Agreguen cualquier cosa que crean conveniente para mejorar, desde el README, funcionalidad o cambio del style.
 
+## Actualizacion 
+
+- Se agrego al proyecto la posibilidad de actualizar un tarea. 
+
 ## Ejecucion:
 
 Para ejecutar el programa no hace falta instalar ninguna dependencia, solamente ejecutarlo utilizando la extension 'Live Server' en Visual Code.
@@ -17,3 +21,8 @@ Para ejecutar el programa no hace falta instalar ninguna dependencia, solamente 
 ## Autor
 
 - Jorge Nicolas Martin
+
+## Contribuidor
+
+- Martin Ezequiel dos Santos
+- Federico Herrera
