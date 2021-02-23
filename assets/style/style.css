@@ -1,46 +1,49 @@
 #todoList {
-  min-width: 320px;
-  margin: 10px 0;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+	min-width: 320px;
+	margin: 10px 0;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
 }
 
 #text {
-  text-align: center;
-  color: white;
+	text-align: center;
+	color: white;
 }
 
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: green;
-  color: white;
-  text-align: center;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: green;
+	color: white;
+	text-align: center;
 }
 
 #body {
-  display: flex;
-  justify-content: center;
-  font-family: "Arial";
-  background-color: grey;
+	display: flex;
+	justify-content: center;
+	font-family: 'Arial';
+	background-color: grey;
 }
 
 #todo-list {
-  color: white;
+	color: white;
 }
 
 form {
-  display: flex;
-  justify-content: center;
+	display: flex;
+	justify-content: center;
 }
 
 ul li {
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .text-center {
-  color: white;
+	color: white;
+}
+.hidden {
+	display: none;
 }
